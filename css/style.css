@@ -43,7 +43,7 @@ a{
 
 /* Entertainment */
 .section#entertainment{
-    background: url(../img/section-bg.jpg) no-repeat bottom/cover;
+    background: url(https://images.pexels.com/photos/631477/pexels-photo-631477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat bottom/cover;
     padding: 10rem;
 }
 
@@ -62,7 +62,7 @@ a{
 #showcase{
     margin: 0;
     padding: 0;
-    background: url(../img/showcase.jpg) no-repeat center center/cover;
+    background: url(https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center/cover;
     width: 100%;
     height: 100vh;
     position: relative;
